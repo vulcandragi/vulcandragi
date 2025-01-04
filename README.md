@@ -32,4 +32,4 @@ Currently studying about Rust and its applications and in the open source contri
   [![Visual Studio](images/visual-studio-2019.png)](https://visualstudio.microsoft.com/pt-br/vs/)
   [![Visual Studio Code](images/visual-studio-code-2019.png)](https://code.visualstudio.com/)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-paulucci&layout=compact&title_color=8544c2&bg_color=F3F3F3)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vulcandragi&layout=compact&title_color=8544c2&bg_color=F3F3F3)
